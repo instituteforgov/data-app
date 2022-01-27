@@ -1,0 +1,5 @@
+[global]
+dataFrameSerialization = "legacy"
+
+[server]
+maxUploadSize = 500
